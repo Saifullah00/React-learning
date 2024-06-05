@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* place-items: center;
+  min-width: 320px;
+  min-height: 100vh; */
+}
+
+.heading{
+  display: flex;
+  align-items: center;
+  height: 65px;
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  color: white;
+  padding: 20px;
+  margin: 0;
+  
+}
+
+.header--title {
+  font-size: 1.25rem;
+  margin-right: auto;
+}
+
+.header--owner {
+  font-size: 0.75rem;
+  font-weight: 700;
+}
